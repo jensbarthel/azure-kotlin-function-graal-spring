@@ -1,0 +1,3 @@
+name: azure-kotlin-function-graal-spring
+description: Deploys a Kotlin Spring Boot application packaged with GraalVM using Pulumi on Azure from Kotlin definitions
+runtime: java
